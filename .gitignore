@@ -1,0 +1,8 @@
+# Common Mac Folders
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Dev specific
+node_modules
+.sass-cache
