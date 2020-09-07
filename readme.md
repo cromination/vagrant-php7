@@ -10,5 +10,5 @@ Install Vagrant and Virtual Box
 
 Run the following script:
 
-	alias lamp="curl -L -o 'install.sh' http://bit.ly/1hBfq57 && curl -L -o 'Vagrantfile' http://bit.ly/1mE3Qt9 && vagrant up"
+	alias lamp="curl -L -o 'install.sh' https://bit.ly/323NQgW && curl -L -o 'Vagrantfile' https://bit.ly/334ILnL && vagrant up"
 
